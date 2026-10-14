@@ -1,4 +1,11 @@
 [
+
+  { "id": "upper-chest-db-raise", "name": "Подъём гантелей на верх груди наискосок", "muscleGroup": "chest", "equipment": "dumbbell", "description": "3 × 10–12. Подъем гантелей снизу наискосок вверх для акцента на верх груди." },
+  { "id": "incline-db-flyes", "name": "Разводка гантелей на наклонной скамье", "muscleGroup": "chest", "equipment": "dumbbell", "description": "3 × 12–15. Изоляция верхнего отдела грудных на наклонной скамье." },
+  { "id": "incline-db-curl", "name": "Сгибания с гантелями на наклонной 60°", "muscleGroup": "biceps", "equipment": "dumbbell", "description": "4 × 10–12. Максимальное растяжение длинной головки бицепса на наклонной скамье." },
+  { "id": "lateral-front-raise", "name": "Махи в стороны со сведением перед собой", "muscleGroup": "shoulders", "equipment": "dumbbell", "description": "4 × 12–15. Комбинированная проработка средних и передних пучков дельт." },
+  { "id": "bodyweight-squat-support", "name": "Приседания у опоры без отягощения", "muscleGroup": "legs", "equipment": "bodyweight", "description": "Дополнительное движение для проработки ног и мобильности суставов." }
+  
   { "id": "bench-press", "name": "Жим штанги лёжа", "muscleGroup": "chest", "equipment": "barbell", "description": "4 × 6–8. Базовое упражнение для груди. Опускай штангу к середине груди, локти 45°." },
   { "id": "incline-db-press", "name": "Жим гантелей на наклонной", "muscleGroup": "chest", "equipment": "dumbbell", "description": "3 × 10–12. Верх грудных. Наклон скамьи 30–45°." },
   { "id": "pullover-db", "name": "Пуловер с гантелью", "muscleGroup": "chest", "equipment": "dumbbell", "description": "3 × 12–15. Выполняйте лежа поперек скамьи, делайте глубокий вдох на опускании." },
